@@ -1,0 +1,12 @@
+MUSIC C# Bindings
+Copyright 2022-2025 Discovery Machine Inc.
+
+This product includes software developed at The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software developed at the Naval Postgraduate School, MOVES Institute.
+
+This product includes software developed at Tangible Software Solutions, Inc.
+
+This product depends on the cpp_redis (https://github.com/cpp-redis/cpp_redis) library that is licensed under an MIT license.
+
+This product depends on the spdlog (https://github.com/gabime/spdlog) library that  is licensed under an MIT license.
