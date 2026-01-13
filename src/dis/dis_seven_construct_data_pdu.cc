@@ -1,3 +1,7 @@
+// Copyright (c) 2025 Discovery Machine®, Inc.
+//
+// This source code is licensed under the MIT license found in the
+// LICENSE file in the root directory of this source tree.
 #include <dis7/EntityID.h>
 #include <dis7/EntityType.h>
 #include <dis7/SimulationAddress.h>
