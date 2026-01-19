@@ -1,0 +1,22 @@
+# Enforce consistent line endings across platforms.
+# - Store text files with LF in the repository.
+# - Let Git handle text/binary detection.
+
+* text=auto eol=lf
+
+# Common Windows-only script formats (keep CRLF when needed).
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Explicitly mark common binary formats.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.bz2 binary
+*.xz binary
+*.7z binary
